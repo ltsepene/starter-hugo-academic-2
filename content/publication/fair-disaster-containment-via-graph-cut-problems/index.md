@@ -1,5 +1,5 @@
 ---
-title: Fair Disaster Containment via Graph-Cut Problems
+title: "A New Notion of Individually Fair Clustering: α-Equitable k-Center"
 publication_types:
   - "3"
 authors:
@@ -7,11 +7,29 @@ authors:
   - Aravind Srinivasan
   - Leonidas Tsepenekas
   - Anil Vullikanti
+publication_short: ""
+abstract: ""
 draft: false
-featured: false
+featured: true
+tags: []
+slides: ""
+url_pdf: ""
 image:
-  filename: ""
+  caption: ""
   focal_point: ""
   preview_only: false
-date: 2021-10-06T13:27:14.764Z
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes: []
+doi: ""
+publication: Preprint
+projects: []
+date: 2021-10-06T13:04:11.228Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00.000Z
+url_poster: ""
+url_code: ""
 ---
