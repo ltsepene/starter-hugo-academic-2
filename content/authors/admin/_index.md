@@ -18,7 +18,7 @@ education:
     - course: PhD (2017-now)
       institution: University of Maryland, College Park
       year: ""
-email: ""
+email: "ltsepene@cs.umd.edu "
 superuser: true
 highlight_name: true
 ---
