@@ -1,5 +1,5 @@
 ---
-title: "Fairness, Semi-Supervised Learning, and More: A General Framework for Clustering with Stochastic Pairwise Constraints"
+title: "A Pairwise Fair and Community-preserving Approach to k-Center Clustering"
 publication_types:
   - "1"
 authors:
