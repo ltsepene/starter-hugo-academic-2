@@ -1,6 +1,7 @@
 ---
 title: Leonidas Tsepenekas
 role: PhD student
+avatar_filename: website.jpg
 bio: ""
 interests:
   - Approximation and Randomized Algorithms
