@@ -1,5 +1,5 @@
 ---
-title: "Approximating Two Stage Stochastic Supplier Problems"
+title: Approximating Two-Stage Stochastic Supplier Problems
 publication_types:
   - "1"
 authors:
@@ -15,7 +15,7 @@ draft: false
 featured: true
 tags: []
 slides: ""
-url_pdf: "https://arxiv.org/abs/2008.03325"
+url_pdf: https://arxiv.org/abs/2008.03325
 image:
   caption: ""
   focal_point: ""
@@ -27,9 +27,9 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: "APPROX-RANDOM 2021" 
+publication: APPROX-RANDOM 2021
 projects: []
-date: "2021-09-15T13:04:11.228Z"
+date: 2021-09-15T13:04:11.228Z
 url_slides: ""
 publishDate: ""
 url_poster: ""
