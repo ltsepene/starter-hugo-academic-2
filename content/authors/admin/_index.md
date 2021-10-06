@@ -5,7 +5,7 @@ bio: ""
 interests:
   - Approximation and Randomized Algorithms
   - Combinatorial and Stochastic Optimization
-  - Fairness
+  - Algorithmic Fairness
 social: []
 organizations:
   - name: University of Maryland, College Park
