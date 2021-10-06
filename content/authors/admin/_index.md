@@ -6,10 +6,7 @@ interests:
   - Approximation and Randomized Algorithms
   - Combinatorial and Stochastic Optimization
   - Fairness
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: ltsepene@cs.umd.edu
+social: []
 organizations:
   - name: University of Maryland, College Park
     url: ""
