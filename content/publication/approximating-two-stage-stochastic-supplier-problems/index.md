@@ -1,5 +1,6 @@
 ---
-title: "Approximating Two Stage Stochastic Supplier Problems:
+title: "Approximating Two Stage Stochastic Supplier Problems"
+publication_types:
   - "1"
 authors:
   - Brian Brubach
