@@ -23,7 +23,7 @@ summary: ""
 url_dataset: ""
 url_project: ""
 url_source: ""
-url_video: "https://www.youtube.com/watch?v=_HsM95uVSMg&list=PL5-hmiX64aeyqfCZelVOngbqn2wxAh89H&index=7&ab_channel=APPROXRANDOM2021"
+url_video: ""
 author_notes: []
 doi: ""
 publication: "APPROX-RANDOM 2021" 
