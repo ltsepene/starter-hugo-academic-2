@@ -1,5 +1,5 @@
 ---
-title: "A New Notion of Individually Fair Clustering: α-Equitable k-Center"
+title: "Fair Disaster Containment via Graph-Cut Problems"
 publication_types:
   - "3"
 authors:
