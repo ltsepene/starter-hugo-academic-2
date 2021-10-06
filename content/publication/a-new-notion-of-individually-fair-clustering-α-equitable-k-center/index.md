@@ -8,11 +8,29 @@ authors:
   - Seyed A. Esmaeili
   - Aravind Srinivasan
   - Leonidas Tsepenekas
+publication_short: ""
+abstract: ""
 draft: false
-featured: false
+featured: true
+tags: []
+slides: ""
+url_pdf: "https://arxiv.org/abs/2106.05423"
 image:
-  filename: featured
-  focal_point: Smart
+  caption: ""
+  focal_point: ""
   preview_only: false
-date: 2021-10-06T13:22:26.128Z
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes: []
+doi: ""
+publication: Preprint
+projects: []
+date: 2021-10-06T13:04:11.228Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00.000Z
+url_poster: ""
+url_code: ""
 ---
