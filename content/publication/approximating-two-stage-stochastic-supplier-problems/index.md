@@ -31,7 +31,7 @@ publication: "APPROX-RANDOM 2021"
 projects: []
 date: ""
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: ""
 url_poster: ""
 url_code: ""
 ---
