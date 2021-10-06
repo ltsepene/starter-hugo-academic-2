@@ -14,7 +14,13 @@ organizations:
   - name: University of Maryland, College Park
     url: ""
 education:
-  courses: []
+  courses:
+    - course: BSc & MSc in Electrical and Computer Engineering (2010-2016)
+      institution: National Technical University of Athens (NTUA)
+      year: ""
+    - course: PhD (2017-now)
+      institution: University of Maryland, College Park
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
