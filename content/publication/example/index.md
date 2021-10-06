@@ -12,8 +12,7 @@ publication_short: ""
 abstract: ""
 draft: false
 featured: true
-tags:
-  - https://arxiv.org/abs/2106.05423
+tags: []
 slides: ""
 url_pdf: ""
 image:
@@ -31,7 +30,7 @@ publication: ""
 projects: []
 date: 2021-10-06T12:58:25.785Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
