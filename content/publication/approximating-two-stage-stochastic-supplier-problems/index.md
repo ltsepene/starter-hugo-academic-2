@@ -1,6 +1,5 @@
 ---
-title: Approximating Two-Stage Stochastic Supplier Problems
-publication_types:
+title: "Approximating Two Stage Stochastic Supplier Problems:
   - "1"
 authors:
   - Brian Brubach
@@ -9,11 +8,29 @@ authors:
   - Aravind Srinivasan
   - Leonidas Tsepenekas
   - Anil Vullikanti
+publication_short: ""
+abstract: ""
 draft: false
-featured: false
+featured: true
+tags: []
+slides: ""
+url_pdf: "https://arxiv.org/abs/2008.03325"
 image:
-  filename: ""
-  focal_point: Smart
+  caption: ""
+  focal_point: ""
   preview_only: false
-date: 2021-10-06T13:40:25.675Z
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: "https://www.youtube.com/watch?v=_HsM95uVSMg&list=PL5-hmiX64aeyqfCZelVOngbqn2wxAh89H&index=7&ab_channel=APPROXRANDOM2021"
+author_notes: []
+doi: ""
+publication: "APPROX-RANDOM 2021" 
+projects: []
+date: 2021-09-15T00:00:00.000Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00.000Z
+url_poster: ""
+url_code: ""
 ---
