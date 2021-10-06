@@ -26,7 +26,7 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: ""
+publication: Preprint
 projects: []
 date: 2021-10-06T13:04:11.228Z
 url_slides: ""
