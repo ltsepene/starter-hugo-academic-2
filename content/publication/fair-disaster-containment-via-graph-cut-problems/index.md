@@ -10,8 +10,8 @@ authors:
 draft: false
 featured: false
 image:
-  filename: featured
-  focal_point: Smart
+  filename: ""
+  focal_point: ""
   preview_only: false
-date: 2021-10-06T13:24:10.796Z
+date: 2021-10-06T13:27:14.764Z
 ---
