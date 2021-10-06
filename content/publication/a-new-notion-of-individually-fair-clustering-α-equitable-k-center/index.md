@@ -1,7 +1,6 @@
 ---
 title: "A New Notion of Individually Fair Clustering: α-Equitable k-Center"
 publication_types:
-  - "0"
   - "3"
 authors:
   - Darshan Chakrabarti
