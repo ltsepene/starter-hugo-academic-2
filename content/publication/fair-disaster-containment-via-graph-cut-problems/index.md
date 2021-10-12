@@ -13,7 +13,7 @@ draft: false
 featured: true
 tags: []
 slides: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/abs/2106.05424"
 image:
   caption: ""
   focal_point: ""
