@@ -1,7 +1,7 @@
 ---
 title: "Fair Disaster Containment via Graph-Cut Problems"
 publication_types:
-  - "3"
+  - "1"
 authors:
   - Michael Dinitz
   - Aravind Srinivasan
