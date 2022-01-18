@@ -1,5 +1,5 @@
 ---
-title: "Fair Disaster Containment via Graph-Cut Problems"
+title: "Controlling Epidemic Spread using Probabilistic Diffusion Models on Networks"
 publication_types:
   - "1"
 authors:
