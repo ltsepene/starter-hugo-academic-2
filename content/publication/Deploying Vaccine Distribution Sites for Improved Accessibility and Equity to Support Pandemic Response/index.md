@@ -27,7 +27,7 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: "AAMAS 2022"
+publication: "AAMAS 2022 (Best Student Paper Award)"
 projects: []
 date: 2021-12-06T13:04:11.228Z
 url_slides: ""
