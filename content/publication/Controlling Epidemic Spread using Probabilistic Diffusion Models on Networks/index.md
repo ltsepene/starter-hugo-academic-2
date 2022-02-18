@@ -14,7 +14,7 @@ draft: false
 featured: true
 tags: []
 slides: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/abs/2202.08296"
 image:
   caption: ""
   focal_point: ""
