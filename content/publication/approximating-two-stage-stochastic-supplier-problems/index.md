@@ -8,7 +8,7 @@ authors:
   - David G. Harris
   - Aravind Srinivasan
   - Leonidas Tsepenekas
-  - Anil Vullikanti
+  - Anil Vullikanti (Alphabetical order)
 publication_short: ""
 abstract: ""
 draft: false
