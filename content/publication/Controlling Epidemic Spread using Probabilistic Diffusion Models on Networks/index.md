@@ -24,7 +24,7 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-author_notes: []
+author_notes: [Alphabetical order]
 doi: ""
 publication: AISTATS 2022
 projects: []
