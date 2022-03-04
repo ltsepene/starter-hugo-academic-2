@@ -8,7 +8,7 @@ authors:
   - Madhav Marathe
   - Aravind Srinivasan
   - Leonidas Tsepenekas
-  - Anil Kumar Vullikanti
+  - Anil Kumar Vullikanti (Alphabetical order)
 publication_short: ""
 abstract: ""
 draft: false
