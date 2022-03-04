@@ -8,7 +8,7 @@ authors:
   - Aravind Srinivasan
   - Leonidas Tsepenekas
   - Anil Vullikanti
-publication_short: ""
+publication_short: "Alphabetical Order"
 abstract: ""
 draft: false
 featured: true
@@ -24,7 +24,7 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-author_notes: [Alphabetical order]
+author_notes: []
 doi: ""
 publication: AISTATS 2022
 projects: []
