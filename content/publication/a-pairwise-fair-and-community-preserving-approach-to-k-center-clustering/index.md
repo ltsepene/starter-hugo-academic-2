@@ -8,7 +8,7 @@ authors:
   - John P. Dickerson 
   - Samir Khuller
   - Aravind Srinivasan
-  - Leonidas Tsepenekas
+  - Leonidas Tsepenekas (Alphabetical order)
 publication_short: ""
 abstract: ""
 draft: false
