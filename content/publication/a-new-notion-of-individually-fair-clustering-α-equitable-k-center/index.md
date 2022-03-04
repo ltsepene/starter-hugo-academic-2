@@ -7,7 +7,7 @@ authors:
   - John P. Dickerson
   - Seyed A. Esmaeili
   - Aravind Srinivasan
-  - Leonidas Tsepenekas
+  - Leonidas Tsepenekas (Alphabetical order)
 publication_short: ""
 abstract: ""
 draft: false
