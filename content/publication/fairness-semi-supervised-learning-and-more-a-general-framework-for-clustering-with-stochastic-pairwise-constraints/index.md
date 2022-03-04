@@ -7,7 +7,7 @@ authors:
   - Darshan Chakrabarti
   - John P. Dickerson 
   - Aravind Srinivasan
-  - Leonidas Tsepenekas
+  - Leonidas Tsepenekas (Alphabetical order)
 publication_short: ""
 abstract: ""
 draft: false
