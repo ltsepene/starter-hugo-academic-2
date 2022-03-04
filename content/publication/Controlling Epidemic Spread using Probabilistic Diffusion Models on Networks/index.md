@@ -8,8 +8,8 @@ authors:
   - Aravind Srinivasan
   - Leonidas Tsepenekas
   - Anil Vullikanti
-publication_short: "Alphabetical Order"
-abstract: ""
+publication_short: ""
+abstract: "Alphabetical order"
 draft: false
 featured: true
 tags: []
