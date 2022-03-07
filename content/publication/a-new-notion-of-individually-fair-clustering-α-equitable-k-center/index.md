@@ -26,7 +26,7 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: AISTAS 2022
+publication: AISTATS 2022
 projects: []
 date: 2022-01-06T13:04:11.228Z
 url_slides: ""
