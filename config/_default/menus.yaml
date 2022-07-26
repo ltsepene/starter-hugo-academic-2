@@ -16,8 +16,11 @@ main:
   - name: Fair Clustering Tutorial
     url: https://www.fairclustering.com/
     weight: 40
+  - name: Google Scholar
+    url: https://scholar.google.com/citations?user=Teb9yeUAAAAJ&hl=en&oi=ao
+    weight: 50
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
     url: uploads/resume.pdf
-    weight: 50
+    weight: 60
