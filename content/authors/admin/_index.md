@@ -1,6 +1,6 @@
 ---
 title: Leonidas Tsepenekas
-role: PhD student
+role: PhD
 avatar_filename: avatar.jpg
 bio: ""
 interests:
