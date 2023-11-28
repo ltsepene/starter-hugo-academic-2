@@ -5,6 +5,8 @@ publication_types:
 authors:
   - Leonidas Tsepenekas
   - Ivan Brugere
+  - Freddy Lecue
+  - Daniele Magazzeni
 publication_short: ""
 abstract: ""
 draft: false
@@ -23,7 +25,7 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: Under Review
+publication: NeurIPS 2023
 projects: []
 date: 2022-08-29T13:04:11.228Z
 url_slides: ""
