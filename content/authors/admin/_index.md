@@ -10,7 +10,7 @@ interests:
   - Machine Learning
 social: []
 organizations:
-  - name: University of Maryland, College Park
+  - name: JPMorgan Chase
     url: ""
 education:
   courses:
