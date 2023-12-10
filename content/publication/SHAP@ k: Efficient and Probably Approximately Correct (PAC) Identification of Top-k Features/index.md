@@ -13,7 +13,7 @@ draft: false
 featured: true
 tags: []
 slides: ""
-url_pdf: "[https://arxiv.org/abs/2208.12731](https://arxiv.org/pdf/2307.04850.pdf)"
+url_pdf: "https://arxiv.org/pdf/2307.04850.pdf"
 image:
   caption: ""
   focal_point: ""
